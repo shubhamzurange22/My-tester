@@ -1,9 +1,9 @@
 package hello;
 
-public class Hello {
+public class dell {
 
 	public static void main(String[] args) {
-System.out.println("1st program");
+System.out.println("2nd progream");
 	}
 
 }
